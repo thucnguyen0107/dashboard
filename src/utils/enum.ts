@@ -1,0 +1,6 @@
+
+export enum SWEET_HOOK_LEVEL {
+  CONTAINER = 'CONTAINER',
+  HOOK = 'HOOK',
+  SUBSCRIBER = 'SUBSCRIBER'
+}
